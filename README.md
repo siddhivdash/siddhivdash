@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhivdash](https://github.com/siddhivdash)
 
-- 📝 I regularly write articles on [I'm on a mission to turn data into meaningful stories.](I'm on a mission to turn data into meaningful stories.)
+- 📝 (I'm on a mission to turn data into meaningful stories.)
 
 - 💬 Ask me about **Python, SQL, machine learning libraries, cloud platforms**
 
