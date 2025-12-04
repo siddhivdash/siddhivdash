@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/siddhi-v-dash/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N0Ft29TA5yVYIgUygxZSq3Zi5aey8zM_/view?usp=sharing](https://drive.google.com/file/d/1N0Ft29TA5yVYIgUygxZSq3Zi5aey8zM_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1N0Ft29TA5yVYIgUygxZSq3Zi5aey8zM_/view?usp=sharing](https://drive.google.com/file/d/1M6xR9rFXhj9RjsYXFdaG4zh4uFnejvVR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
