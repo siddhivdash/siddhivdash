@@ -15,9 +15,9 @@
 
 
 ## 🧠 My Focus Areas
-- 🧪 AI-powered systems (LLMs, RAG pipelines, intelligent workflows)
-- 🧠 Custom ML models (like self-pruning neural networks)
-- ⚡ Scalable backend services for AI applications
+- ⚙️ Scalable backend systems for AI
+- 🤖 Computer vision & deep learning models
+- 🧠 Production ML systems & AI applications
 
 
 ## 📊 GitHub Stats & Trophies
