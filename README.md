@@ -6,76 +6,68 @@
   </a>
 </p>
 
-## 📌 About Me
-- I’m currently focused on:
-- 🤖 AI Engineering & LLMs (RAG, agents, real-world applications)
-- 🧠 Machine Learning & Deep Learning
-- ⚙️ Backend Development (FastAPI, APIs, system design)
-- 📊 Data Science & problem solving
+## 👋 About Me
+Final-year B.Tech CSE (Data Science specialization) student at **SRM Institute of Science and Technology**, building ML systems that go from model to API to Docker.
+During my ML internship at **Mahanadi Coalfields Limited**, I designed and deployed **MCLBuddy**, a RAG-based HR chatbot used by 500+ employees.
 
+🎯 **Open to Data Science / ML Engineer roles starting 2027.**
 
-## 🧠 My Focus Areas
-- ⚙️ Scalable backend systems for AI
-- 🤖 Computer vision & deep learning models
-- 🧠 Production ML systems & AI applications
+## 🚀 Featured Projects
+| Project | What it does | Stack |
+|---|---|---|
+| [**SkyTrack AI**](https://github.com/siddhivdash/SkyTrack-AI---Drone-based-vehicle-detection-and-tracking-system.) | Drone-based traffic analytics: vehicle detection, tracking, speed estimation, congestion and heatmaps | YOLOv8, ByteTrack, PyTorch, OpenCV |
+| [**VisLang**](https://github.com/siddhivdash/VISLANG-Real-Time-Vision-Language-Assistant) | Local, Dockerized vision-language assistant: detection, segmentation and visual chat | YOLOv8, SAM, Ollama, FastAPI, Docker |
+| [**Self-Pruning Neural Networks**](https://github.com/siddhivdash/Self-Pruning-Neural-Networks) | Network that learns to prune itself during training (97.7% sparsity on CIFAR-10) | PyTorch |
+| [**EmailIQ**](https://github.com/siddhivdash/EmailIQ-Local-AI-Gmail-Assistant) | Privacy-first Gmail assistant that runs on a local LLM | LangChain, FastAPI, Ollama |
 
+## 🏢 Experience
+**Machine Learning Engineer Intern, Mahanadi Coalfields Limited (Govt. of India), Jun-Jul 2025**
+- Designed and deployed **MCLBuddy**, an HR chatbot used by **500+ employees**, reducing query time from **4 hrs → 15 mins (73% improvement)**.
+- Optimized the **RAG pipeline with FAISS**, achieving **40% latency reduction**.
+- Built a **FastAPI backend** with **Docker deployment**, handling **1000+ monthly requests**.
 
-## 📊 GitHub Stats & Trophies
+## 🛠️ Tech Stack
+
+<h3 align="center">Languages & Data</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=siddhivdash&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="siddhivdash's GitHub Streak" width="49%" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">ML & Deep Learning</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">GenAI</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/RAG-a371f7?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Llama%203-0866FF?style=flat-square" alt="Llama 3" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/SAM-00BFA5?style=flat-square" alt="SAM" />
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Backend & MLOps</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
+## 🎓 Certifications
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- SAP Certified Associate: SAP Generative AI Developer
 
 <p align="center">
   <a href="https://github.com/siddhivdash">
